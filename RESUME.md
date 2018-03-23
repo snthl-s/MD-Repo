@@ -5,15 +5,15 @@
 ## SKILLS
 ### PROGRAMMING LANGUAGES
 
-`PHP` `JAVA` `JS` `NODEJS` `MYSQL` `HTML` `CSS`
+`PHP` `JAVA` `JS` `NODEJS` `MYSQL` `HTML` `SASS`
 
 ### LIBRARIES AND FRAMEWORKS
-`Angular` `React` `Yii2` `Bootstrap` `SASS`
+`Angular` `React` `Yii2` `Bootstrap`
 
 ### TOOLS AND SERVICES
 `AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `Webpack` `Auth0` `VSCode` `Bit Bucket`
 
-### Unit Testing Frameworks
+### UNIT TESTING FRAMEWORKS
 `Jest` `PHPUnit`
 
 ---------------
