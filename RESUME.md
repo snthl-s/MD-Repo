@@ -5,8 +5,9 @@
 ## SKILLS
 ### PROGRAMMING LANGUAGES
 
-`PHP` `JAVA` `JS` `NODEJS` `MYSQL` `HTML` `SASS`
-
+```diff 
++ PHP JAVA JS NODEJS MYSQL `HTML` `SASS`
+```
 ### LIBRARIES AND FRAMEWORKS
 `Angular` `React` `Yii2` `Bootstrap`
 
