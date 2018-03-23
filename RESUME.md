@@ -1,6 +1,6 @@
 # Senthilkumar S
 *Software Developer*
-#### [ssk381991@gmail.com](ssk381991@gmail.com) ✆ +91 9442293891    [https://github.com/snthl-s](https://github.com/snthl-s)    Puducherry,India
+#### [ssk381991@gmail.com](ssk381991@gmail.com)    ✆+91 9442293891    [https://github.com/snthl-s](https://github.com/snthl-s)    Puducherry,India
 -----------------
 ## SKILLS
 ### PROGRAMMING LANGUAGES
@@ -19,11 +19,10 @@
 ---------------
 ### WORK EXPERIENCE
 
-<b>Probasse Cloud Solutions and Service</b> (Start Up company) 
-Software Development Jan 2018 - March 2018(current)
+#### Probasse Cloud Solutions and Service (Start Up company) 
+Chief Technology Officer | Jan 2018 - March 2018(current)
 
-
-ILCM - INSTITUTE LIFECYCLE MANAGEMENT
+<b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b>
 
 `PHP` `MYSQL` `Angular` `HTML` `CSS` `Yii2` `REST` `AWS` `Bootstrap` `AdminLTE`
 
@@ -34,7 +33,7 @@ Working on architect and developing cloud based School ERP System (cross-platfor
 - Implemented GIT SCM to manage the version control of source code.
 - Gathered requirement from the customer and converted the user stories into value stories, developed the system.
 
-Probasse - Company Website
+<b>Probasse - Company Website</b>
 
 `PHP` `MYSQL` `WORDPRESS` `HTML` `CSS`
 
@@ -42,7 +41,8 @@ Developed a website for company to show case the company profile, give demo to t
 - Created a responsive unique wordpress theme for this company.
 - Implemented e-commerce plugins to buy subscription through online.
 
-<b>Cognizant Technology Solutions</b> - Malaysia June 2013 -  OCT 2016
+#### Cognizant Technology Solutions 
+Software Developer Lead | Malaysia June 2013 -  OCT 2016
 
 <b>Reinsurance System</b>
 
