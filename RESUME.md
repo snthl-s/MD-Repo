@@ -26,7 +26,7 @@ ILCM - INSTITUTE LIFECYCLE MANAGEMENT
 
 `PHP` `MYSQL` `Angular` `HTML` `CSS` `Yii2` `REST` `AWS` `Bootstrap` `AdminLTE`
 
-Working on architecting and developing cloud based School ERP System (cross-platform). Built a collaborative team enviornment to collate ideas, feedbacks and complaints, worked togeather to build this product to the end customer(Schools).
+Working on architect and developing cloud based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks and complaints, worked together to build this product to the end customer(Schools).
 
 - Domain Setup
 - Designed and deployed highly scalable,secured and available AWS Architecture.
@@ -62,7 +62,7 @@ Internal project management tool to track the progress of a project.
 
 - Support for sharepoint application.
 - Developed a system to track the support tickets and calls.
-- Generate customized reports to users accodring to the requirements.
+- Generate customized reports to users according to the requirements.
 - Part of Problem Management team to solve the common issues, understand the issue, Impact Analysis and provide solutions.
 
 ------------------
