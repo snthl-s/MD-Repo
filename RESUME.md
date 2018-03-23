@@ -10,7 +10,7 @@
 `PHP` `JAVA` `JS` `MYSQL` `HTML` `CSS`
 
 ### LIBRARIES AND FRAMEWORKS
-`Angular` `React` `Yii2` `Bootstrap` `Reactstrap`
+`Angular` `React` `Yii2` `Bootstrap`
 
 ### TOOLS AND SERVICES
 `Jest` `AWS EC2` `SNS` `SES` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `MECURIAL` `Auth0` `VS Code` `Bit Bucket`
@@ -47,7 +47,7 @@ Reinsurance System
 
 `JAVA` `PHP` `MYSQL` `AJAX` `JQUERY` `HTML` `CSS` `Spout` `MECURIAL` `Eclipse`
 
-Worked on reinsurance system developement to convert the business requirements into functional specification, Coded to generate insurance premium values according to given specifications, and generate high availability report.
+Worked on reinsurance system development to convert the business requirements into functional specification, Coded to generate insurance premium values according to given specifications, and generate high availability report.
 
 - Data Migration from Legacy System to Reinsurance System.
 - Developed UI's for the clients to set the premium calculation parameters.
@@ -70,7 +70,7 @@ Internal project management tool to track the progress of a project.
 ### EDUCATION
 
 <div>
-<b>Bharathiar University</b><br/>
+<b>Bharathiar University,</b> Coimbatore<br/>
 Master Of Science - Computer Science | June, 2013 - May, 2015
 </div>
 <div>
