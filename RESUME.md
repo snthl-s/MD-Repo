@@ -1,11 +1,11 @@
 # Senthilkumar S
 *Software Developer*
-#### [ssk381991@gmail.com](ssk381991@gmail.com)✆ +91 9442293891[https://github.com/snthl-s](https://github.com/snthl-s)Puducherry,India
+#### <ul> <li>[ssk381991@gmail.com](ssk381991@gmail.com)</li><li>✆ +91 9442293891</li><li>[https://github.com/snthl-s](https://github.com/snthl-s)</li><li>Puducherry,India</li>
 -----------------
 ## SKILLS
 ### PROGRAMMING LANGUAGES
 
-```PHP``` ```JAVA``` ```JS``` ```MYSQL``` ```HTML``` ```CSS```
+`PHP` `JAVA` `JS` `MYSQL` `HTML` `CSS`
 
 ### LIBRARIES AND FRAMEWORKS
 `Angular` `React` `Yii2` `Bootstrap`
