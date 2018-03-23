@@ -1,19 +1,19 @@
 # Senthilkumar S
 *Software Developer*
-#### [ssk381991@gmail.com](ssk381991@gmail.com)  -  ✆+91 9442293891  -  [https://github.com/snthl-s](https://github.com/snthl-s)  -  Puducherry,India
+#### [ssk381991@gmail.com](ssk381991@gmail.com)  |  ✆+91 9442293891  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Puducherry,India
 -----------------
 ## SKILLS
 ### PROGRAMMING LANGUAGES
 `PHP`   `JAVA`  `JS`    `NODEJS`    `MYSQL` `HTML`  `SASS`
 
 ### LIBRARIES AND FRAMEWORKS
-`Angular` `React` `Yii2` `Bootstrap`
+`ANGULAR` `REACT` `Yii2` `BOOTSTRAP`
 
 ### TOOLS AND SERVICES
-`AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `Webpack` `Auth0` `VSCode` `Bit Bucket`
+`AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`
 
 ### UNIT TESTING FRAMEWORKS
-`Jest` `PHPUnit`
+`JEST` `PHPUNIT`
 
 ---------------
 ### WORK EXPERIENCE
@@ -23,7 +23,7 @@ Chief Technology Officer | Jan 2018 - March 2018(current)
 
 <b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b>
 
-`PHP` `MYSQL` `Angular` `HTML` `CSS` `Yii2` `REST` `AWS` `Bootstrap` `AdminLTE`
+`PHP` `MYSQL` `ANGULAR` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE`
 
 Working on architect and developing cloud based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks and complaints, worked together to build this product to the end customer(Schools).
 
@@ -56,7 +56,7 @@ Worked on reinsurance system development to convert the business requirements in
 
 <b>IT IS C2 Application Support </b>
 
-`SHAREPOINT` `SQL Server` `Remedy Ticket tool` `PHP` `MYSQL`  
+`SHAREPOINT` `SQL SERVER` `REMEDY` `PHP` `MYSQL`  
 
 Internal project management tool to track the progress of a project.
 
@@ -93,13 +93,13 @@ Web application stores the purchase, product, quality, and sales details. Genera
 
 <b>GQUIZ</b> - BSC Computer Science Main Project 
 
-`PHP` `MySQL` `JavaScript` `HTML` `CSS` `MVC`
+`PHP` `MYSQL` `JAVASCRIPT` `HTML` `CSS` `MVC`
 
 Web application used to conduct quiz through online portal, it gets the answer from the user and stores it in DB, Generates the score report to the admin. (This application has been implemented in the gateway function – Inter college competition )
 
 <b>Mess Bill Payment System</b> - BSC Computer Science Mini Project
 
-`PHP` `MYSQL` `JavaScript` `HTML` `CSS`
+`PHP` `MYSQL` `JAVASCRIPT` `HTML` `CSS`
 
 Online payment portal where the management will be able to upload the bills and students or parents will be able to pay the bill through payment gateway.
 
