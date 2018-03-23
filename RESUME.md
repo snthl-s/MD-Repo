@@ -70,15 +70,11 @@ Internal project management tool to track the progress of a project.
 
 ### EDUCATION
 
-<div>
 <b>Bharathiar University,</b> Coimbatore<br/>
 Master Of Science - Computer Science | June, 2013 - May, 2015
-</div>
-<div>
+
 <b>PSG college of Arts and Science,</b> Coimbatore<br/>
 Bachelor Of Science - Computer Science | June, 2010 - May, 2013
-</div>
-
 
 -----------------
 ### Certifications
