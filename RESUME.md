@@ -41,7 +41,7 @@ Developed a website for company to show case the company profile, give demo to t
 - Created a responsive unique wordpress theme for this company.
 - Implemented e-commerce plugins to buy subscription through online.
 
-<b>Cognizant Technology Solutions<b> - Malaysia June 2013 -  OCT 2016
+<b>Cognizant Technology Solutions</b> - Malaysia June 2013 -  OCT 2016
 
 Reinsurance System
 
@@ -109,8 +109,8 @@ Online payment portal where the management will be able to upload the bills and 
 
 ### References
 
-- Shiny from Cognizant - Shiny.cruzl@cognizant.com
-- Daniel from AmMetlife - danielctw@gmail.com
-- Kasee from Probasse - kasee@probasse.com
+- Shiny from Cognizant - Shiny.cruzl@cognizant.com ✆ +91 9994036069
+- Daniel from AmMetlife - danielctw@gmail.com ✆ +60 126117391
+- Kasee from Probasse - kasee@probasse.com ✆ +1(402) 6718597 
 
  
