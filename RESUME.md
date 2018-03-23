@@ -8,10 +8,10 @@
 `PHP` `JAVA` `JS` `NODEJS` `MYSQL` `HTML` `CSS`
 
 ### LIBRARIES AND FRAMEWORKS
-`Angular` `React` `Yii2` `Bootstrap` `webpack` 
+`Angular` `React` `Yii2` `Bootstrap` `SASS`
 
 ### TOOLS AND SERVICES
-`AWS EC2` `SNS` `SES` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `MECURIAL` `Auth0` `VS Code` `Bit Bucket`
+`AWS EC2` `SNS` `SES` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `MECURIAL` `Webpack` `Auth0` `VS Code` `Bit Bucket`
 
 ### Unit Testing Frameworks
 `Jest` `PHPUnit`
@@ -44,7 +44,7 @@ Developed a website for company to show case the company profile, give demo to t
 
 <b>Cognizant Technology Solutions</b> - Malaysia June 2013 -  OCT 2016
 
-Reinsurance System
+<b>Reinsurance System</b>
 
 `JAVA` `PHP` `MYSQL` `AJAX` `JQUERY` `HTML` `CSS` `Spout` `MECURIAL` `Eclipse`
 
@@ -55,7 +55,7 @@ Worked on reinsurance system development to convert the business requirements in
 - Customized the Spout library to generate excel sheets with formatting. 
 - Generate the reports in excel format through UI's.
 
-IT IS C2 Application Support
+<b>IT IS C2 Application Support </b>
 
 `SHAREPOINT` `SQL Server` `Remedy Ticket tool` `PHP` `MYSQL`  
 
