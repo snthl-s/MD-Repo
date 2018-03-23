@@ -11,7 +11,7 @@
 `Angular` `React` `Yii2` `Bootstrap` `SASS`
 
 ### TOOLS AND SERVICES
-`AWS EC2` `SNS` `SES` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `MECURIAL` `Webpack` `Auth0` `VS Code` `Bit Bucket`
+`AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `Webpack` `Auth0` `VSCode` `Bit Bucket`
 
 ### Unit Testing Frameworks
 `Jest` `PHPUnit`
