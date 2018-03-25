@@ -1,4 +1,4 @@
-# Steps to integrate AWS SNS Service into PHP Application.
+# Steps to integrate AWS SNS Service with PHP Application.
 
 ## Install AWS SDK on codeigniter using composer use the commands [more info](https://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html).
  ```
@@ -71,3 +71,38 @@ Located at Sns/SnsClient.php
 Use the API to create and manage the requests.
 
 [AWS API](https://docs.aws.amazon.com/aws-sdk-php/v3/api/api-sns-2010-03-31.html#createtopic)
+
+## Code to Send SMS
+
+```
+use Aws\Sns\SnsClient;
+
+$sns = \Aws\Sns\SnsClient::factory(array(
+    'credentials' => [
+        'key'    => 'use Aws\Sns\SnsClient;
+
+$sns = \Aws\Sns\SnsClient::factory(array(
+    'credentials' => [
+        'key'    => '<Key>',
+        'secret' => '<Secret>',
+    ],
+    'region' => 'us-west-2',
+    'version'  => 'latest',
+));
+
+$result = $sns->publish([
+    'Message' => '<message>', // REQUIRED
+    'MessageAttributes' => [
+        'AWS.SNS.SMS.SenderID' => [
+            'DataType' => 'String', // REQUIRED
+            'StringValue' => '<sender_id>'
+        ],
+        'AWS.SNS.SMS.SMSType' => [
+            'DataType' => 'String', // REQUIRED
+            'StringValue' => 'Transactional' // or 'Promotional'
+        ]
+    ],
+    'PhoneNumber' => '<phone_number>',
+]);
+print_r($result);
+```

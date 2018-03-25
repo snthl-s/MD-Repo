@@ -25,7 +25,7 @@ Chief Technology Officer | Jan 2018 - March 2018(current)
 
 `PHP` `MYSQL` `ANGULAR` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE`
 
-Working on architect and developing cloud based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks and complaints, worked together to build this product to the end customer(Schools).
+Working on architect and developing cloud-based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks, complaints, worked together to build this product to the end customer(Schools).
 
 - Domain Setup
 - Designed and deployed highly scalable,secured and available AWS Architecture.
@@ -95,13 +95,15 @@ Web application stores the purchase, product, quality, and sales details. Genera
 
 `PHP` `MYSQL` `JAVASCRIPT` `HTML` `CSS` `MVC`
 
-Web application used to conduct quiz through online portal, it gets the answer from the user and stores it in DB, Generates the score report to the admin. (This application has been implemented in the gateway function – Inter college competition )
+The web application used to conduct quiz through an online portal, it gets the answer from the user
+and stores it in DB, Generates the score report to the admin.(This application has been
+implemented in the gateway function – Inter college competition )
 
 <b>Mess Bill Payment System</b> - BSC Computer Science Mini Project
 
 `PHP` `MYSQL` `JAVASCRIPT` `HTML` `CSS`
 
-Online payment portal where the management will be able to upload the bills and students or parents will be able to pay the bill through payment gateway.
+Online payment portal where the management will be able to upload the bills and students or parents will be able to pay the bill through the payment gateway.
 
 ### References
 
