@@ -79,10 +79,6 @@ use Aws\Sns\SnsClient;
 
 $sns = \Aws\Sns\SnsClient::factory(array(
     'credentials' => [
-        'key'    => 'use Aws\Sns\SnsClient;
-
-$sns = \Aws\Sns\SnsClient::factory(array(
-    'credentials' => [
         'key'    => '<Key>',
         'secret' => '<Secret>',
     ],
