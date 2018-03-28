@@ -62,12 +62,9 @@ Internal project management tool to track the progress of a project.
 ### EDUCATION
 
 <b>Bharathiar University,</b> Coimbatore<br/>
-Master Of Science - Computer Science | June, 2013 - May, 2015
-
+Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
 <b>PSG college of Arts and Science,</b> Coimbatore<br/>
 Bachelor Of Science - Computer Science | June, 2010 - May, 2013
-
------------------
 ### Certifications
 
 - ITIL V3 Foundation certified.
