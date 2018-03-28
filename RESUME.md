@@ -3,17 +3,14 @@
 #### [ssk381991@gmail.com](ssk381991@gmail.com)  |  ✆+91 9442293891  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Puducherry,India
 -----------------
 ## SKILLS
-PROGRAMMING LANGUAGES |
-`PHP`   `JAVA`  `JS`    `NODEJS`    `MYSQL` `HTML`  `SASS`
-
-LIBRARIES AND FRAMEWORKS | 
-`ANGULAR` `REACT` `Yii2` `BOOTSTRAP`
-
-TOOLS AND SERVICES | 
-`AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`
-
-UNIT TESTING FRAMEWORKS | 
-`JEST` `PHPUNIT`
+<b>PROGRAMMING LANGUAGES</b> 
+`PHP`   `JAVA`  `JS`    `NODEJS`    `MYSQL` `HTML`  `SASS`<br/>
+<b>LIBRARIES AND FRAMEWORKS</b>  
+`ANGULAR` `REACT` `Yii2` `BOOTSTRAP`<br/>
+<b>TOOLS AND SERVICES</b> 
+`AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`<br/>
+<b>TESTING FRAMEWORKS</b>
+`JEST` `PHPUNIT`<br/>
 
 ------------------
 ### WORK EXPERIENCE
