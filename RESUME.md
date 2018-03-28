@@ -57,8 +57,6 @@ Internal project management tool to track the progress of a project.
 - Generate customized reports to users according to the requirements.
 - Part of Problem Management team to solve the common issues, understand the issue, Impact Analysis and provide solutions.
 
-------------------
-
 ### EDUCATION
 
 <b>Bharathiar University,</b> Coimbatore<br/>
@@ -66,11 +64,8 @@ Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
 <b>PSG college of Arts and Science,</b> Coimbatore<br/>
 Bachelor Of Science - Computer Science | June, 2010 - May, 2013
 ### Certifications
-
 - ITIL V3 Foundation certified.
 - Oracle Database 11g SQL Fundamentals Certified.
-
-------------------
 
 ### PROJECTS
 
