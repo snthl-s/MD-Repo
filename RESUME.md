@@ -10,8 +10,9 @@
 
 ------------------
 ### WORK EXPERIENCE
-#### Probasse Cloud Solutions and Service (Start Up company) 
-Chief Technology Officer | Jan 2018 - March 2018(current)<br/>
+<b>Probasse Cloud Solutions and Service (Start Up company)</b><br/> 
+*Chief Technology Officer | Jan 2018 - March 2018(current)*<br/>
+
 <b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b>
 
 `PHP` `MYSQL` `ANGULAR` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE`
@@ -31,8 +32,8 @@ Developed a website for company to show case the company profile, give demo to t
 - Created a responsive unique wordpress theme for this company.
 - Implemented e-commerce plugins to buy subscription through online.
 
-#### Cognizant Technology Solutions 
-Software Developer Lead | Malaysia June 2013 -  OCT 2016
+<b>Cognizant Technology Solutions</b><br/>
+*Software Developer Lead | Malaysia June 2013 -  OCT 2016*<br/>
 
 <b>Reinsurance System</b>
 
