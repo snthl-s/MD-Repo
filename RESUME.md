@@ -2,18 +2,16 @@
 *Software Developer*
 #### [ssk381991@gmail.com](ssk381991@gmail.com)  |  ✆+91 9442293891  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Puducherry,India
 -----------------
-## SKILLS
-<b>PROGRAMMING LANGUAGES</b> `PHP`   `JAVA`  `JS`    `NODEJS`    `MYSQL` `HTML`  `SASS`<br/>
-<b>LIBRARIES AND FRAMEWORKS</b> `ANGULAR` `REACT` `Yii2` `BOOTSTRAP`<br/>
-<b>TOOLS AND SERVICES</b> `AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`<br/>
-<b>TESTING FRAMEWORKS</b> `JEST` `PHPUNIT`<br/>
+## TECHNICAL SKILLS
+`PHP`   `JAVA`  `JS`    `NODEJS`    `MYSQL` `HTML`  `SASS`<br/>
+`ANGULAR` `REACT` `Yii2` `BOOTSTRAP`<br/>
+`AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`<br/>
+`JEST` `PHPUNIT`<br/>
 
 ------------------
 ### WORK EXPERIENCE
-
 #### Probasse Cloud Solutions and Service (Start Up company) 
-Chief Technology Officer | Jan 2018 - March 2018(current)
-
+Chief Technology Officer | Jan 2018 - March 2018(current)<br/>
 <b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b>
 
 `PHP` `MYSQL` `ANGULAR` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE`
