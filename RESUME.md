@@ -13,10 +13,8 @@
 <b>Probasse Cloud Solutions and Service (Start Up company)</b><br/> 
 *Chief Technology Officer | Jan 2018 - March 2018(current)*<br/>
 
-<b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b>
-
-`PHP` `MYSQL` `ANGULAR` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE`
-
+<b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b><br/>
+`PHP` `MYSQL` `ANGULAR` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE`<br/>
 Working on architect and developing cloud-based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks, complaints, worked together to build this product to the end customer(Schools).
 
 - Domain Setup
@@ -26,8 +24,7 @@ Working on architect and developing cloud-based School ERP System (cross-platfor
 
 <b>Probasse - Company Website</b>
 
-`PHP` `MYSQL` `WORDPRESS` `HTML` `CSS`
-
+`PHP` `MYSQL` `WORDPRESS` `HTML` `CSS`<br/>
 Developed a website for company to show case the company profile, give demo to the users, and track support tickets. [Probasse](http://159.65.128.241/probasse/)
 - Created a responsive unique wordpress theme for this company.
 - Implemented e-commerce plugins to buy subscription through online.
