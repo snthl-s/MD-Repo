@@ -1,5 +1,5 @@
 # Senthilkumar S
-*Software Developer*
+*Software Developer*<br/>
 #### [ssk381991@gmail.com](ssk381991@gmail.com)  |  ✆+91 9442293891  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Puducherry,India
 -----------------
 ## TECHNICAL SKILLS
