@@ -4,33 +4,23 @@
 -----------------
 ## TECHNICAL SKILLS
 `PHP`   `JAVA`  `JS`    `NODEJS`    `MYSQL` `HTML`  `SASS`<br/>
-`ANGULAR` `REACT` `Yii2` `BOOTSTRAP`<br/>
+`REACT` `Yii2` `BOOTSTRAP`<br/>
 `AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`<br/>
 `JEST` `PHPUNIT`<br/>
 
 ------------------
+### Certifications
+- ITIL V3 Foundation certified.
+- Oracle Database 11g SQL Fundamentals Certified.
+-------------------
+### EDUCATION
+<b>Bharathiar University,</b> Coimbatore<br/>
+Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
+<b>PSG college of Arts and Science,</b> Coimbatore<br/>
+Bachelor Of Science - Computer Science | June, 2010 - May, 2013
+
+--------------------
 ### WORK EXPERIENCE
-<b>Probasse Cloud Solutions and Service (Start Up company)</b><br/> 
-*Chief Technology Officer | Jan 2018 - March 2018(current)*<br/>
-
-<b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b>
-
-`PHP` `MYSQL` `ANGULAR` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE`
-
-Working on architect and developing cloud-based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks, complaints, worked together to build this product to the end customer(Schools).
-
-- Domain Setup
-- Designed and deployed highly scalable,secured and available AWS Architecture.
-- Implemented GIT SCM to manage the version control of source code.
-- Gathered requirement from the customer and converted the user stories into value stories, developed the system.
-
-<b>Probasse - Company Website</b>
-
-`PHP` `MYSQL` `WORDPRESS` `HTML` `CSS`
-
-Developed a website for company to show case the company profile, give demo to the users, and track support tickets. [Probasse](http://159.65.128.241/probasse/)
-- Created a responsive unique wordpress theme for this company.
-- Implemented e-commerce plugins to buy subscription through online.
 
 <b>Cognizant Technology Solutions</b><br/>
 *Software Developer Lead | Malaysia June 2013 -  OCT 2016*<br/>
@@ -57,16 +47,67 @@ Internal project management tool to track the progress of a project.
 - Generate customized reports to users according to the requirements.
 - Part of Problem Management team to solve the common issues, understand the issue, Impact Analysis and provide solutions.
 
-### EDUCATION
+<b>FreeLancer - Oct 2016 - Present*</b>
 
-<b>Bharathiar University,</b> Coimbatore<br/>
-Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
-<b>PSG college of Arts and Science,</b> Coimbatore<br/>
-Bachelor Of Science - Computer Science | June, 2010 - May, 2013
-### Certifications
-- ITIL V3 Foundation certified.
-- Oracle Database 11g SQL Fundamentals Certified.
+<b>Probasse Cloud Solutions and Service (Start Up company)</b><br/> 
+*Software Specialist | Jan 2018 - March 2018(current)*<br/>
 
+<b>Cloud Implementation</b> - January 2018 - March 2018
+
+`AWS` `GIT` `S3 Bucket` `MySql` `PHP` `Cloud Watch` `VPC` `IAM` `EBS` `Auto Scaling`
+Worked on implementing ILCM - INSTITUTE LIFECYCLE MANAGEMENT into cloud with highly scalability and availability.
+
+- Domain Setup
+- Designed and deployed highly scalable,secured and available AWS Architecture.
+- Implemented GIT SCM to manage the version control of source code.
+- Implemented Auto Scaling to scale up the resources when the resources are fully utilized.
+
+<b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b> - http://stest.slcmprobasse.com/ - May 2017 - Present 
+
+ `ReactJS` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE` 
+
+Working on architect and developing cloud-based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks, complaints, worked together to build this product to the end customer(Schools).
+
+- Gathered requirement from the customer and converted the user stories into value stories, developed the system.
+- Used React for develope UI development.
+- REST complaient.
+
+<b>Probasse - Company Profile Website</b> - http://probasse.com/ - August 2017 - September 2017
+
+`PHP` `MYSQL` `WORDPRESS` `HTML` `CSS`
+
+Developed a website for company to show case the company profile, give demo to the users, and track support tickets. 
+- Created a responsive unique wordpress theme for this company.
+- Implemented e-commerce plugins to buy subscription through online.
+
+<b> Bug Tracker </b> - http://bug.probasse.com/ - October 2017 - November 2017
+
+`Mantis` `PHP` `MYSQL`
+
+Developed a bug tracker application using open source bug tracking tools, to track the bugs, reported by the users,testers and developers, To track all the feature requests.
+
+- Customized the Open source bug tracker into our requirements and deployed in the AWS server.
+
+<b> Work Log Tracker </b> - December 2017 - February 2018 
+
+`ReactJS`
+
+Developed UI for work log tracker, users can track their out work completed according to the time, which can be reviewed by the manager.
+
+- Converted the mock Up templates into single page web application using React.
+- Used Redux to manage the data in a organized way.
+- User React-Router to navigate through the components.
+
+<b> Black Board </b> - January 2018 - Present
+
+`React-Native` `Mobile Apps` `Firebase`
+
+Mobile application for the user Teacher and Student, to tracker their information.
+
+- Used React native to Develop Android and IOS application.
+- Used Redux to manage the states.
+- Used Axios to connect with the Firebase.
+----------------------------------
 ### PROJECTS
 
 <b>Export Garment Process</b> - MSC Computer Science Main Project
@@ -94,5 +135,3 @@ Online payment portal where the management will be able to upload the bills and 
 - Shiny from Cognizant - Shiny.cruzl@cognizant.com ✆ +91 9994036069
 - Daniel from AmMetlife - danielctw@gmail.com ✆ +60 126117391
 - Kasee from Probasse - kasee@probasse.com ✆ +1(402) 6718597 
-
- 
