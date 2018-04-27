@@ -71,13 +71,15 @@ Working on architect and developing cloud-based School ERP System (cross-platfor
 
 - Gathered requirement from the customer and converted the user stories into value stories, developed the system.
 - Used React for develope UI development.
-- REST complaient.
+- REST complaint.
+- Used AdminLTE for Back End UI development. 
 
 <b>Probasse - Company Profile Website</b> - http://probasse.com/ - August 2017 - September 2017
 
 `PHP` `MYSQL` `WORDPRESS` `HTML` `CSS`
 
 Developed a website for company to show case the company profile, give demo to the users, and track support tickets. 
+
 - Created a responsive unique wordpress theme for this company.
 - Implemented e-commerce plugins to buy subscription through online.
 
@@ -88,6 +90,7 @@ Developed a website for company to show case the company profile, give demo to t
 Developed a bug tracker application using open source bug tracking tools, to track the bugs, reported by the users,testers and developers, To track all the feature requests.
 
 - Customized the Open source bug tracker into our requirements and deployed in the AWS server.
+- Created a domain and hosted the server
 
 <b> Work Log Tracker </b> - December 2017 - February 2018 
 
