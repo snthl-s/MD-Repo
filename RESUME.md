@@ -42,7 +42,7 @@ Worked on reinsurance system development to convert the business requirements in
 
 Internal project management tool to track the progress of a project.
 
-- Support for sharepoint application.
+- Support for Sharepoint application.
 - Developed a system to track the support tickets and calls.
 - Generate customized reports to users according to the requirements.
 - Part of Problem Management team to solve the common issues, understand the issue, Impact Analysis and provide solutions.
@@ -55,6 +55,7 @@ Internal project management tool to track the progress of a project.
 <b>Cloud Implementation</b> - January 2018 - March 2018
 
 `AWS` `GIT` `S3 Bucket` `MySql` `PHP` `Cloud Watch` `VPC` `IAM` `EBS` `Auto Scaling`
+
 Worked on implementing ILCM - INSTITUTE LIFECYCLE MANAGEMENT into cloud with highly scalability and availability.
 
 - Domain Setup
