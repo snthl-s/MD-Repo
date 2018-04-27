@@ -20,7 +20,7 @@ Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
 Bachelor Of Science - Computer Science | June, 2010 - May, 2013
 
 --------------------
-### WORK EXPERIENCE
+### WORK EXPERIENCE - 4 Years and 10 Months 
 
 <b>Cognizant Technology Solutions</b><br/>
 *Software Developer Lead | Malaysia June 2013 -  OCT 2016*<br/>
