@@ -35,6 +35,7 @@ Worked on reinsurance system development to convert the business requirements in
 - Developed UI's for the clients to set the premium calculation parameters.
 - Customized the Spout library to generate excel sheets with formatting. 
 - Generate the reports in excel format through UI's.
+- Created a core Java application to perform data migration from old system to current system.
 
 <b>IT IS C2 Application Support </b>
 
