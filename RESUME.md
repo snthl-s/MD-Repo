@@ -3,8 +3,8 @@
 #### [ssk381991@gmail.com](ssk381991@gmail.com)  |  ✆+91 9442293891  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Puducherry,India
 -----------------
 ## TECHNICAL SKILLS
-`PHP`   `JAVA`  `JS`    `NODEJS`    `MYSQL` `HTML`  `SASS`<br/>
-`REACT` `Yii2` `BOOTSTRAP`<br/>
+`JS` `NODEJS` `PHP` `JAVA` `MYSQL` `HTML` `CSS`<br/>
+`REACT JS` `REACT-NATIVE` `Yii2` `BOOTSTRAP` `REST`<br/>
 `AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`<br/>
 `JEST` `PHPUNIT`<br/>
 
@@ -94,7 +94,7 @@ Developed a bug tracker application using open source bug tracking tools, to tra
 - Customized the Open source bug tracker into our requirements and deployed in the AWS server.
 - Created a domain and hosted the server
 
-<b> Work Log Tracker </b> - December 2017 - February 2018 
+<b> Work Log Tracker </b> - December 2017 - February 2018 - http://worklog.eu-4.evennode.com/
 
 `ReactJS`
 
@@ -104,9 +104,19 @@ Developed UI for work log tracker, users can track their out work completed acco
 - Used Redux to manage the data in a organized way.
 - User React-Router to navigate through the components.
 
-<b> Black Board </b> - January 2018 - Present
+<b> Black Board </b> - January 2018 - Present 
 
 `React-Native` `Mobile Apps` `Firebase`
+
+Mobile application for the user Teacher and Student, to tracker their information.
+
+- Used React native to Develop Android and IOS application.
+- Used Redux to manage the states.
+- Used Axios to connect with the Firebase.
+
+<b> LOQ. </b> - April 2018 - Present
+
+`React-Native` `Mobile Apps`
 
 Mobile application for the user Teacher and Student, to tracker their information.
 
