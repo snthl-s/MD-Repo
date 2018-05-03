@@ -118,11 +118,13 @@ Mobile application for the user Teacher and Student, to tracker their informatio
 
 `React-Native` `Mobile Apps`
 
-Mobile application for the user Teacher and Student, to tracker their information.
+Mobile application helps the users to record and share the knowledge in the form of audio and text with other users.
 
 - Used React native to Develop Android and IOS application.
 - Used Redux to manage the states.
-- Used Axios to connect with the Firebase.
+- Used REST API to perform the CRUD operations. 
+- Used Router to navigate between the pages.
+
 ----------------------------------
 ### PROJECTS
 
