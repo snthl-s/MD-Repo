@@ -3,11 +3,7 @@
 #### [ssk381991@gmail.com](ssk381991@gmail.com)  |  ✆+91 9442293891  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Puducherry,India
 -----------------
 ## Address
-
-3,3rd Cross SBI Colony,<br/>
-Mohan Nagar,<br/>
-Puducherry - 605005<br/>
-
+##### 3,3rd Cross SBI Colony,<br/> Mohan Nagar,<br/> Puducherry - 605005<br/>
 -----------------
 ## TECHNICAL SKILLS
 `JS` `NODEJS` `PHP` `JAVA` `MYSQL` `HTML` `CSS`<br/>
