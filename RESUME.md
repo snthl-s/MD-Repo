@@ -1,14 +1,14 @@
 # Senthilkumar S
-*Software Developer*<br/>
+*Senior Software Engineer*<br/>
 #### [ssk381991@gmail.com](ssk381991@gmail.com)  |  ✆+91 9442293891  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Puducherry,India
 -----------------
 ## Address
 ##### 3,3rd Cross SBI Colony,<br/> Mohan Nagar,<br/> Puducherry - 605005<br/>
 -----------------
 ## TECHNICAL SKILLS
-`JS` `NODEJS` `PHP` `JAVA` `MYSQL` `HTML` `CSS`<br/>
-`REACTJS` `REACT-NATIVE` `Yii2` `BOOTSTRAP` `REST`<br/>
-`AWS EC2` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `IAM` `GIT SCM` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`<br/>
+`JS` `NODEJS` `PWA` `SSR` `SEO` `PHP` `JAVA` `MYSQL` `HTML` `CSS`<br/>
+`VUE` `REACTJS` `REACT-NATIVE` `Yii2` `BOOTSTRAP` `REST`<br/>
+`AWS EC2` `GITLAB` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`<br/>
 `JEST` `PHPUNIT`<br/>
 
 ------------------
@@ -24,10 +24,26 @@ Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
 Bachelor Of Science - Computer Science | June, 2010 - May, 2013
 
 --------------------
-### WORK EXPERIENCE - 4 Years and 10 Months 
+### WORK EXPERIENCE - 5 Years and 6 Months 
+<b>Samsung electronics India Pvt Ltd (Contractor from Photon Infotech Private Limited, Chennai)</b><br/>
+*Senior Software Engineer | Chennai, India June 2018 -  Feb 2019*<br/>
+
+<b>Samsung Shop PWA APP</b>
+
+`PWA` `VUE` `VUEX` `JAVASCRIPT` `SSR` `HTML` `CSS` `AWS` `GITLAB` `VSCODE`
+
+Worked on creating a PWA application for ecommerce site to sell the products.
+
+ - Server Side Rendered application for instant page load and SEO.
+ - Used service worker to work in offline mode.
+ - Integrate Utags for data alaytics
+ - Integrated Kafka for Kibana logs
+ - Configured webpack for server and client to optimize code and build.
+ - Working on implementing push notifications service and improving performance using the google audit reports.
+ - Used Jest to write unit test scripts.
 
 <b>Cognizant Technology Solutions</b><br/>
-*Software Developer Lead | Malaysia June 2013 -  OCT 2016*<br/>
+*Software Developer Lead | Malaysia June 2013 -  OCT 2016<br/>
 
 <b>Reinsurance System</b>
 
@@ -153,6 +169,6 @@ Online payment portal where the management will be able to upload the bills and 
 
 ### References
 
+- Prakash from Samsung - prakash.r@samsung.com ✆ +91 9952358328
 - Shiny from Cognizant - Shiny.cruzl@cognizant.com ✆ +91 9994036069
 - Daniel from AmMetlife - danielctw@gmail.com ✆ +60 126117391
-- Kasee from Probasse - kasee@probasse.com ✆ +1(402) 6718597 
