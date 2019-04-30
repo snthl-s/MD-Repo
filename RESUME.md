@@ -13,6 +13,7 @@
 
 ------------------
 ### Certifications
+- Certified Scrum Master (CSM Badge: https://bcert.me/bc/html/show-badge.html?b=zablcmxw)
 - ITIL V3 Foundation certified.
 - Oracle Database 11g SQL Fundamentals Certified.
 -------------------
@@ -26,7 +27,7 @@ Bachelor Of Science - Computer Science | June, 2010 - May, 2013
 --------------------
 ### WORK EXPERIENCE - 5 Years and 6 Months 
 <b>Samsung electronics India Pvt Ltd (Contractor from Photon Infotech Private Limited, Chennai)</b><br/>
-*Senior Software Engineer | Chennai, India June 2018 -  Feb 2019*<br/>
+*Senior Software Engineer | Chennai, India June 2018 - Present<br/>
 
 <b>Samsung Shop PWA APP</b>
 
@@ -41,6 +42,81 @@ Worked on creating a PWA application for ecommerce site to sell the products.
  - Configured webpack for server and client to optimize code and build.
  - Working on implementing push notifications service and improving performance using the google audit reports.
  - Used Jest to write unit test scripts.
+
+<b>FreeLancer - Oct 2016 - May 2018</b>
+
+<b> LOQ. </b> - April 2018 - May 2018
+
+`React-Native` `Mobile Apps`
+
+Mobile application helps the users to record and share the knowledge in the form of audio and text with other users.
+
+- Used React native to Develop Android and IOS application.
+- Used Redux to manage the states.
+- Used REST API to perform the CRUD operations. 
+- Used Router to navigate between the pages.
+
+<b>Probasse Cloud Solutions and Service (Start Up company)</b><br/> 
+
+<b> Black Board </b> - January 2018 - March 2018 
+
+`React-Native` `Mobile Apps` `Firebase`
+
+Mobile application for the user Teacher and Student, to tracker their information.
+
+- Used React native to Develop Android and IOS application.
+- Used Redux to manage the states.
+- Used Axios to connect with the Firebase.
+
+<b>Cloud Implementation</b> - http://slcmprobasse.com/ January 2018 - March 2018
+
+`AWS` `GIT` `S3 Bucket` `MySql` `PHP` `Cloud Watch` `VPC` `IAM` `EBS` `Auto Scaling`
+
+Worked on implementing ILCM - INSTITUTE LIFECYCLE MANAGEMENT into cloud with highly scalability and availability.
+
+- Domain Setup
+- Designed and deployed highly scalable,secured and available AWS Architecture.
+- Implemented GIT SCM to manage the version control of source code.
+- Implemented Auto Scaling to scale up the resources when the resources are fully utilized.
+
+<b> Work Log Tracker </b> - December 2017 - February 2018 - http://worklog.eu-4.evennode.com/
+
+`ReactJS`
+
+Developed UI for work log tracker, users can track their out work completed according to the time, which can be reviewed by the manager.
+
+- Converted the mock Up templates into single page web application using React.
+- Used Redux to manage the data in a organized way.
+- User React-Router to navigate through the components.
+
+<b> Bug Tracker </b> - http://bug.probasse.com/ - October 2017 - November 2017
+
+`Mantis` `PHP` `MYSQL`
+
+Developed a bug tracker application using open source bug tracking tools, to track the bugs, reported by the users,testers and developers, To track all the feature requests.
+
+- Customized the Open source bug tracker into our requirements and deployed in the AWS server.
+- Created a domain and hosted the server
+
+<b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b> - http://stest.slcmprobasse.com/ - May 2017 - Dec 2017 
+
+ `ReactJS` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE` 
+
+Working on architect and developing cloud-based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks, complaints, worked together to build this product to the end customer(Schools).
+
+- Gathered requirement from the customer and converted the user stories into value stories, developed the system.
+- Used React for develope UI development.
+- REST complaint.
+- Used AdminLTE for Back End UI development. 
+
+<b>Probasse - Company Profile Website</b> - http://probasse.com/ - Feb 2017 - April 2017
+
+`PHP` `MYSQL` `WORDPRESS` `HTML` `CSS`
+
+Developed a website for company to show case the company profile, give demo to the users, and track support tickets. 
+
+- Created a responsive unique wordpress theme for this company.
+- Implemented e-commerce plugins to buy subscription through online.
 
 <b>Cognizant Technology Solutions</b><br/>
 *Software Developer Lead | Malaysia June 2013 -  OCT 2016<br/>
@@ -68,81 +144,6 @@ Internal project management tool to track the progress of a project.
 - Generate customized reports to users according to the requirements.
 - Part of Problem Management team to solve the common issues, understand the issue, Impact Analysis and provide solutions.
 
-<b>FreeLancer - Oct 2016 - Present*</b>
-
-<b>Probasse Cloud Solutions and Service (Start Up company)</b><br/> 
-*Software Specialist | Jan 2018 - March 2018(current)*<br/>
-
-<b>Cloud Implementation</b> - http://slcmprobasse.com/ January 2018 - March 2018
-
-`AWS` `GIT` `S3 Bucket` `MySql` `PHP` `Cloud Watch` `VPC` `IAM` `EBS` `Auto Scaling`
-
-Worked on implementing ILCM - INSTITUTE LIFECYCLE MANAGEMENT into cloud with highly scalability and availability.
-
-- Domain Setup
-- Designed and deployed highly scalable,secured and available AWS Architecture.
-- Implemented GIT SCM to manage the version control of source code.
-- Implemented Auto Scaling to scale up the resources when the resources are fully utilized.
-
-<b>ILCM - INSTITUTE LIFECYCLE MANAGEMENT</b> - http://stest.slcmprobasse.com/ - May 2017 - Present 
-
- `ReactJS` `HTML` `CSS` `Yii2` `REST` `AWS` `BOOTSTRAP` `AdminLTE` 
-
-Working on architect and developing cloud-based School ERP System (cross-platform). Built a collaborative team environment to collate ideas, feedbacks, complaints, worked together to build this product to the end customer(Schools).
-
-- Gathered requirement from the customer and converted the user stories into value stories, developed the system.
-- Used React for develope UI development.
-- REST complaint.
-- Used AdminLTE for Back End UI development. 
-
-<b>Probasse - Company Profile Website</b> - http://probasse.com/ - August 2017 - September 2017
-
-`PHP` `MYSQL` `WORDPRESS` `HTML` `CSS`
-
-Developed a website for company to show case the company profile, give demo to the users, and track support tickets. 
-
-- Created a responsive unique wordpress theme for this company.
-- Implemented e-commerce plugins to buy subscription through online.
-
-<b> Bug Tracker </b> - http://bug.probasse.com/ - October 2017 - November 2017
-
-`Mantis` `PHP` `MYSQL`
-
-Developed a bug tracker application using open source bug tracking tools, to track the bugs, reported by the users,testers and developers, To track all the feature requests.
-
-- Customized the Open source bug tracker into our requirements and deployed in the AWS server.
-- Created a domain and hosted the server
-
-<b> Work Log Tracker </b> - December 2017 - February 2018 - http://worklog.eu-4.evennode.com/
-
-`ReactJS`
-
-Developed UI for work log tracker, users can track their out work completed according to the time, which can be reviewed by the manager.
-
-- Converted the mock Up templates into single page web application using React.
-- Used Redux to manage the data in a organized way.
-- User React-Router to navigate through the components.
-
-<b> Black Board </b> - January 2018 - Present 
-
-`React-Native` `Mobile Apps` `Firebase`
-
-Mobile application for the user Teacher and Student, to tracker their information.
-
-- Used React native to Develop Android and IOS application.
-- Used Redux to manage the states.
-- Used Axios to connect with the Firebase.
-
-<b> LOQ. </b> - April 2018 - Present
-
-`React-Native` `Mobile Apps`
-
-Mobile application helps the users to record and share the knowledge in the form of audio and text with other users.
-
-- Used React native to Develop Android and IOS application.
-- Used Redux to manage the states.
-- Used REST API to perform the CRUD operations. 
-- Used Router to navigate between the pages.
 
 ----------------------------------
 ### PROJECTS
