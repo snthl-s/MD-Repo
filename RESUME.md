@@ -37,7 +37,7 @@ Worked on creating a PWA application for ecommerce site to sell the products.
 
  - Server Side Rendered application for instant page load and SEO.
  - Used service worker to work in offline mode.
- - Integrate Utags for data alaytics
+ - Integrate Utags for data analytics
  - Integrated Kafka for Kibana logs
  - Configured webpack for server and client to optimize code and build.
  - Working on implementing push notifications service and improving performance using the google audit reports.
