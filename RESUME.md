@@ -6,10 +6,12 @@
 ##### 3,3rd Cross SBI Colony,<br/> Mohan Nagar,<br/> Puducherry - 605005<br/>
 -----------------
 ## TECHNICAL SKILLS
-`JS` `NODEJS` `PWA` `SSR` `SEO` `PHP` `JAVA` `MYSQL` `HTML` `CSS`<br/>
-`VUE` `REACTJS` `REACT-NATIVE` `Yii2` `BOOTSTRAP` `REST`<br/>
-`AWS EC2` `GITLAB` `SNS` `S3` `CLOUDFRONT` `CLOUDWATCH` `WEBPACK` `Auth0` `VSCODE` `BITBUCKET`<br/>
-`JEST` `PHPUNIT`<br/>
+# CURRENT SKILLS WORKING ON
+`JS` `NODEJS` `PWA` `SSR` `SEO` `HTML` `SCSS`<br/>
+`VUE` `REACTJS` `REST` `JIRA` `S3` `CLOUDFRONT` `WEBPACK` `GITLAB` `JEST`<br/>
+# SKILLS WORKED ON
+`Yii2` `BOOTSTRAP` `REACT-NATIVE` `PHP` `JAVA` `MYSQL` `AWS EC2` `SNS` `CLOUDFRONT` `CLOUDWATCH` `Auth0` `BITBUCKET`<br/>
+`PHPUNIT`<br/>
 
 ------------------
 ### Certifications
