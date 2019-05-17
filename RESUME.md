@@ -15,7 +15,7 @@
 
 ------------------
 ### Certifications
-- Certified Scrum Master (CSM Badge: https://bcert.me/bc/html/show-badge.html?b=zablcmxw)
+- Certified Scrum Master (CSM Badge: ```https://bcert.me/bc/html/show-badge.html?b=zablcmxw)```
 - ITIL V3 Foundation certified.
 - Oracle Database 11g SQL Fundamentals Certified.
 -------------------
