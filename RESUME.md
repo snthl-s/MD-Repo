@@ -16,7 +16,7 @@
 
 ------------------
 ### Certifications
-- Certified Scrum Master `https://bcert.me/bc/html/show-badge.html?b=zablcmxw`
+- Certified Scrum Master (https://bcert.me/bc/html/show-badge.html?b=zablcmxw)
 - ITIL V3 Foundation certified.
 - Oracle Database 11g SQL Fundamentals Certified.
 -------------------
@@ -187,6 +187,6 @@ Online payment portal where the management will be able to upload the bills and 
 
 ### References
 
-- Prakash from Samsung - prakash.r@samsung.com ✆ +91 9952358328
+- Muthu From Apiary - muthukumar.v@apiarytech.com ✆ +91 9894989492
 - Shiny from Cognizant - Shiny.cruzl@cognizant.com ✆ +91 9994036069
-- Daniel from AmMetlife - danielctw@gmail.com ✆ +60 126117391
+- Prakash from Samsung - prakash.r@samsung.com ✆ +91 9952358328
