@@ -7,10 +7,11 @@
 -----------------
 ## TECHNICAL SKILLS
 ### CURRENT SKILLS WORKING ON
-`JS` `NODEJS` `PWA` `SSR` `SEO` `HTML` `SCSS`<br/>
-`VUE` `REACTJS` `REST` `JIRA` `S3` `CLOUDFRONT` `WEBPACK` `GITLAB` `JEST`<br/>
+`JS` `NODEJS` `KAFKA` `GRAPHQL` `REDIS` `JEST` `CYPRESS` `HTML` `SCSS`<br/>
+`VUE` `REST` `JIRA` `S3` `CLOUDFRONT` `WEBPACK` `GITLAB` `JEST`<br/>
 ### SKILLS WORKED ON
-`Yii2` `BOOTSTRAP` `REACT-NATIVE` `PHP` `JAVA` `MYSQL` `AWS EC2` `SNS` `CLOUDFRONT` `CLOUDWATCH` `Auth0` `BITBUCKET`<br/>
+`PWA` `SSR` `SEO` `REACTJS` `Yii2` `BOOTSTRAP` `REACT-NATIVE` <br/>
+`PHP` `JAVA` `MYSQL` `AWS EC2` `SNS` `CLOUDFRONT` `CLOUDWATCH` `Auth0` `BITBUCKET`<br/>
 `PHPUNIT`<br/>
 
 ------------------
@@ -27,9 +28,23 @@ Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
 Bachelor Of Science - Computer Science | June, 2010 - May, 2013
 
 --------------------
-### WORK EXPERIENCE - 5 Years and 6 Months 
+### WORK EXPERIENCE - 7 Years and 6 Months 
+<b>Apiary Technologies Pvt. Ltd, Chennai</b><br/>
+*Senior Software Engineer | Chennai, India July 2019 - Present<br/>
+
+<b>Clinical Documentation - Retrospect App</b>
+
+`VUE` `JS` `NODEJS` `KAFKA` `GRAPHQL` `REDIS` `JEST` `CYPRESS` `HTML` `SCSS`
+
+Worked on recreating retrospect application with new look and features using VUE, Graphql, Kafka, and Redis.
+
+    - Earlier retrospect is part of a legacy application written using Vaadin Framework.
+    - Integrated RediSearch Module into Redis for performant search.
+    - Used Chai for unit testing in Graphql.
+    - Used Cypress to e2e tests for Front-End.
+
 <b>Samsung electronics India Pvt Ltd (Contractor from Photon Infotech Private Limited, Chennai)</b><br/>
-*Senior Software Engineer | Chennai, India June 2018 - Present<br/>
+*Senior Software Engineer | Chennai, India June 2018 - July 2019<br/>
 
 <b>Samsung Shop PWA APP</b>
 
