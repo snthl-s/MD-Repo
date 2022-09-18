@@ -2,8 +2,8 @@
 *Senior Software Engineer*<br/>
 #### [ssk381991@gmail.com](ssk381991@gmail.com)  |  +1 [TODO]  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Toronto, Canada
 
+----------------------------
 Senior engineer with 9 years of professional experience looking for exhilarating challenges to evolve along with the company.
-
 ----------------------------
 ### Professional Experience
 
