@@ -18,8 +18,8 @@ __*Roles & Responsibilities*__
 - Code reviews
 - Mentor junior engineers.
 
-- __*Technologies Used*__: 
-- `VUE` `JAVASCRIPT` `NODEJS` `KAFKA` `GRAPHQL` `REDIS` `JEST` `CYPRESS` `HTML` `SCSS` `REACT` `KIBANA` `ELASTIC APM` `DOCKER`
+- __*Technologies Used*__
+`VUE` `JAVASCRIPT` `NODEJS` `KAFKA` `GRAPHQL` `REDIS` `JEST` `CYPRESS` `HTML` `SCSS` `REACT` `KIBANA` `ELASTIC APM` `DOCKER`
 
 __*Recent projects delivered*__
 
@@ -39,13 +39,13 @@ Search Performance Improvement
 APM & RUM integration
 - Performance metrics and error tracking for the web application
 - __*Technologies Used*__
-- `APM SERVER` `RUM` `GRAPHQL` `VUE`
+`APM SERVER` `RUM` `GRAPHQL` `VUE`
 - Role: Architect solution + Hands on Implementation.
 
 Test System migration
 - Migrated e2e test system from Selenium to Cypress.
 - __*Technologies Used*__
-- `JAVASCRIPT` `CYPRESS` `BAMBOO`
+`JAVASCRIPT` `CYPRESS` `BAMBOO`
 - Role: Evangelist / Advocated for Engineering efficiency / Hands on Implementation.
 
 __*Other Projects*__
@@ -65,7 +65,7 @@ __*Roles & Responsibilities*__
 - Proof of concepts.
 
 - __*Technologies Used*__
-- `VUE` `JAVASCRIPT` `NODEJS` `KAFKA` `JEST` `CYPRESS` `REACT` `Newrelic` `Adobe Anlytics` `Kibana`
+`VUE` `JAVASCRIPT` `NODEJS` `KAFKA` `JEST` `CYPRESS` `REACT` `Newrelic` `Adobe Anlytics` `Kibana`
 
 __*Notable projects*__
 - Conversion of native mobile into PWA using VueJS
@@ -86,7 +86,7 @@ __*Roles & Responsibilities*__
 - Built Company Portfolio website.
 
 - __*Technologies Used*__
-- `PHP` `Yii2` `AWS` `WORDPRESS`
+`PHP` `Yii2` `AWS` `WORDPRESS`
 
 __*Notable projects*__
 - Bitbucket Setup
@@ -107,7 +107,7 @@ __*Roles & Responsibilities*__
 - Application Deployment.
 
 - __*Technologies Used*__
-- `PHP` `AJAX` `JQUERY` `HTMl` `CSS` `WINDOW SERVER 2012`
+`PHP` `AJAX` `JQUERY` `HTMl` `CSS` `WINDOW SERVER 2012`
 
 __*Notable projects*__
 - Mercurial SCM setup
