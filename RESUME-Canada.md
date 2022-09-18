@@ -26,7 +26,7 @@ TruCode integration https://www.trucode.com/
 - to reduce errors in Hospital workflow
 - __*Technologies Used*__
 `VAADIN` `JAVASCRIPT` `VUE`
-- Role: Lead engineer - work with XFN team of 40 people (backend eng / SRE / PM / ...)
+- Role: Lead engineer - work with XFN team of 40 people (Backend Engneers / SRE / PM / UX Designers / SDET / Product Manager)
 - Team size: 5 front end engineers. Created the project architecture that enabled multiple engineers collaborate on the project.
 
 Search Performance Improvement
