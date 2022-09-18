@@ -2,7 +2,7 @@
 *Senior Software Engineer*<br/>
 #### [ssk381991@gmail.com](ssk381991@gmail.com)  |  +1 [TODO]  |  [https://github.com/snthl-s](https://github.com/snthl-s)  |  Toronto, Canada
 
-Senior engineer with 9 years of professional experience looking for exciting and new challenges to keep myself engaged and grow along with the company.
+Senior engineer with 9 years of professional experience looking for exhilarating challenges to evolve along with the company.
 
 ----------------------------
 ### Professional Experience
@@ -47,7 +47,6 @@ Other Projects
 - Avro Schema Integration
 - Virtual Scroll Implementation
 - React to Vue project conversion
-
 
 #### Samsung (Photon Infotech Private Limited)
 **Senior Software enginner**
@@ -101,7 +100,7 @@ Roles & Responsibilities
 - Hands on Coding using PHP and Mysql.
 - Application Deployment.
 
-Technologies Used: 
+Technologies Used:
 - `PHP` `AJAX` `JQUERY` `HTMl` `CSS` `WINDOW SERVER 2012`
 
 Notable projects:
@@ -122,4 +121,3 @@ Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
 
 <b>PSG college of Arts and Science,</b> Coimbatore<br/>
 Bachelor Of Science - Computer Science | June, 2010 - May, 2013
-
