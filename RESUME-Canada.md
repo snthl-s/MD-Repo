@@ -19,7 +19,7 @@ __*Roles & Responsibilities*__
 - Mentor junior engineers.
 
 - __*Technologies Used*__
-`VUE` `JAVASCRIPT` `NODEJS` `KAFKA` `GRAPHQL` `REDIS` `JEST` `CYPRESS` `HTML` `SCSS` `REACT` `KIBANA` `ELASTIC APM` `DOCKER`
+`VUE` `REACT` `JAVASCRIPT` `NODEJS` `KAFKA` `GRAPHQL` `REDIS` `JEST` `CYPRESS`  `KIBANA` `ELASTIC APM`
 
 __*Recent projects delivered*__
 
