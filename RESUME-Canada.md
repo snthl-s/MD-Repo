@@ -23,7 +23,8 @@ __*Technologies Used*__:
 
 __*Recent projects delivered*__
 
-TruCode integration https://www.trucode.com/ - to reduce errors in Hospital workflow
+TruCode integration https://www.trucode.com/ 
+- to reduce errors in Hospital workflow
 __*Technologies Used*__
 `VAADIN` `JAVASCRIPT` `VUE`
 - Role: Lead engineer - work with XFN team of 40 people (backend eng / SRE / PM / ...)
@@ -66,7 +67,7 @@ __*Roles & Responsibilities*__
 __*Technologies Used*__
 `VUE` `JAVASCRIPT` `NODEJS` `KAFKA` `JEST` `CYPRESS` `REACT` `Newrelic` `Adobe Anlytics` `Kibana`
 
-Notable projects
+__*Notable projects*__
 - Conversion of native mobile into PWA using VueJS
 - Performance optimization, improved checkout page load from 15s to 3s using SSR
 - SEO Implementation
