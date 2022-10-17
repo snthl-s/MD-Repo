@@ -95,7 +95,7 @@ __*Notable projects*__
 - Amazon Route 53 integration.
 - Load Balancer integration.
 - AWS Cost report setup generation.
- 
+
 #### AmMetLife (Cognizant - Malaysia)
 **Software Engineer**
 June 2013 - October 2016
@@ -122,9 +122,9 @@ __*Notable projects*__
 - Oracle Database 11g SQL Fundamentals Certified.
 ----------------------------
 ### EDUCATION
-<b>Bharathiar University,</b> Coimbatore<br/>
+- <b>Bharathiar University,</b> Coimbatore<br/>
 Master Of Science - Computer Science | June, 2013 - May, 2015<br/>
  
-<b>PSG college of Arts and Science,</b> Coimbatore<br/>
+- <b>PSG college of Arts and Science,</b> Coimbatore<br/>
 Bachelor Of Science - Computer Science | June, 2010 - May, 2013
  
