@@ -6,6 +6,7 @@
 ----------------------------
 ### Professional Experience
  
+ 
 ### Apiary Technologies Pvt. Ltd.
 **Lead front-end engineer**
 July 2019 - Current
@@ -53,6 +54,7 @@ __*Other Projects*__
 - Virtual Scroll Implementation
 - React to Vue project conversion
  
+
 ### Samsung (Photon Infotech Private Limited)
 **Senior Software Engineer**
 June 2018 - July 2019
@@ -74,6 +76,7 @@ __*Notable projects*__
 - Payment gateway Integration
 - Data sharing between Mobile webapp and Mobile native app.
  
+
 ### Probasse
 **Founding Developer**
 November 2016 - May 2018
@@ -95,6 +98,7 @@ __*Notable projects*__
 - Amazon Route 53 integration.
 - Load Balancer integration.
 - AWS Cost report setup generation.
+
 
 ### AmMetLife (Cognizant - Malaysia)
 **Software Engineer**
